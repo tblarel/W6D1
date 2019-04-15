@@ -1,0 +1,21 @@
+/* PHASE 8: Thumbs */
+
+
+.friends > li {
+  float: left;
+  width: 55px;
+  margin: 5px;
+}
+.friends > li > img {
+  border-radius: 10%;
+  border: 1px solid grey;
+}
+
+.friends > li > img:hover {
+  asdfh
+}
+
+
+ul:nth-child() {
+  float: left;
+}
